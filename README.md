@@ -19,9 +19,9 @@
 
 A comprehensive machine learning project that predicts stock market trends using time-series analysis and advanced ML algorithms.
 
-> **📄 Project Report:** [View PDF](final_market_trend_analysis.pdf)
+> **📄 Project Report:** [View PDF](docs/final_market_trend_analysis.pdf)
 >
-> **📓 Jupyter Notebook:** [View Notebook](notebooks/final_market_trend_analysis.ipynb)
+> **📓 Jupyter Notebook:** [View Notebook](final_market_trend_analysis.ipynb)
 
 ---
 
@@ -121,8 +121,7 @@ jupyter notebook notebooks/final_market_trend_analysis.ipynb
 ```
 ai-market-trend-analysis/
 │
-├── 📂 notebooks/
-│   └── final_market_trend_analysis.ipynb  # Main analysis notebook
+├── final_market_trend_analysis.ipynb      # Main analysis notebook
 │
 ├── 📂 images/
 │   ├── project_banner.png                 # Repository banner image
