@@ -47,11 +47,11 @@ This project demonstrates an end-to-end AI-based system for stock market trend p
 
 ### What it does:
 
-- 📊 **Generates realistic synthetic stock data** using Geometric Brownian Motion
-- 🔧 **Engineers 15+ technical features** including moving averages, volatility measures, and lagged returns
-- 🤖 **Trains multiple ML models** (Linear Regression, Random Forest, Gradient Boosting)
-- 📈 **Evaluates models** using comprehensive regression metrics (MAE, RMSE, R², MAPE)
-- 🎨 **Visualizes results** with professional-grade plots and comparisons
+- 📊 **Generates realistic synthetic stock data** using Geometric Brownian Motion.
+- 🔧 **Engineers 15+ technical features** including moving averages, volatility measures, and lagged returns.
+- 🤖 **Trains multiple ML models** (Linear Regression, Random Forest, Gradient Boosting).
+- 📈 **Evaluates models** using comprehensive regression metrics (MAE, RMSE, R², MAPE).
+- 🎨 **Visualizes results** with professional-grade plots and comparisons.
 
 ### Target Audience
 Students, beginners in ML/Finance, and anyone interested in algorithmic trading concepts.
@@ -61,10 +61,10 @@ Students, beginners in ML/Finance, and anyone interested in algorithmic trading 
 ## ✨ Features
 
 ### 📊 Data Generation & Processing
-- **Synthetic Stock Data Generation** using Geometric Brownian Motion
-- **8 Stocks Coverage**: AAPL, MSFT, GOOGL, AMZN, JPM, JNJ, WMT, XOM
-- **8,000+ Records** spanning 2020-2023
-- **Automatic data cleaning** and validation
+- **Synthetic Stock Data Generation** using Geometric Brownian Motion.
+- **8 Stocks Coverage**: AAPL, MSFT, GOOGL, AMZN, JPM, JNJ, WMT, XOM.
+- **8,000+ Records** spanning 2020-2023.
+- **Automatic data cleaning** and validation.
 
 ### 🔧 Feature Engineering
 - **Moving Averages**: SMA (5, 10, 20, 50 periods)
@@ -207,11 +207,11 @@ jupyter>=1.0.0
 
 ### Key Findings
 
-✅ **Linear Regression** achieves excellent R² scores due to the mathematical properties of the synthetic data generation
+✅ **Linear Regression** achieves excellent R² scores due to the mathematical properties of the synthetic data generation.
 
-✅ **Gradient Boosting** provides the best balance between bias and variance
+✅ **Gradient Boosting** provides the best balance between bias and variance.
 
-✅ **Random Forest** offers robust predictions with feature importance insights
+✅ **Random Forest** offers robust predictions with feature importance insights.
 
 ---
 
@@ -224,9 +224,9 @@ jupyter>=1.0.0
 </p>
 
 ### 1. Data Generation
-- **Geometric Brownian Motion** for realistic price simulation
-- **Multiple sectors**: Tech, Finance, Healthcare, Retail, Energy
-- **Sector-specific volatility** and trend parameters
+- **Geometric Brownian Motion** for realistic price simulation.
+- **Multiple sectors**: Tech, Finance, Healthcare, Retail, Energy.
+- **Sector-specific volatility** and trend parameters.
 
 ### 2. Feature Engineering
 
@@ -265,12 +265,12 @@ GradientBoostingRegressor(
 
 The project includes comprehensive visualizations:
 
-- **📊 Price Distribution Analysis** - Understanding data distribution across stocks
-- **📈 Time Series Trends** - Stock price movements over time
-- **🔥 Correlation Heatmaps** - Feature correlation analysis
-- **📉 Model Comparison Charts** - Side-by-side performance comparison
-- **🎯 Actual vs Predicted Plots** - Visual prediction accuracy
-- **📐 Residual Analysis** - Error distribution and patterns
+- **📊 Price Distribution Analysis** - Understanding data distribution across stocks.
+- **📈 Time Series Trends** - Stock price movements over time.
+- **🔥 Correlation Heatmaps** - Feature correlation analysis.
+- **📉 Model Comparison Charts** - Side-by-side performance comparison.
+- **🎯 Actual vs Predicted Plots** - Visual prediction accuracy.
+- **📐 Residual Analysis** - Error distribution and patterns.
 
 ---
 
@@ -280,17 +280,17 @@ The project includes comprehensive visualizations:
 
 This project acknowledges several ethical considerations:
 
-1. **📊 Data Fairness**: Uses synthetic data to avoid real-market biases
-2. **🔍 Model Transparency**: Emphasis on interpretable metrics and visualizations
-3. **⚠️ Risk Disclosure**: Clear limitations stated for educational purposes
-4. **🎓 Educational Focus**: Designed for learning, not actual trading
+1. **📊 Data Fairness**: Uses synthetic data to avoid real-market biases.
+2. **🔍 Model Transparency**: Emphasis on interpretable metrics and visualizations.
+3. **⚠️ Risk Disclosure**: Clear limitations stated for educational purposes.
+4. **🎓 Educational Focus**: Designed for learning, not actual trading.
 
 ### Limitations
 
-- Training on synthetic data limits real-world applicability
-- No consideration of external factors (news, geopolitics)
-- Does not account for transaction costs or market impact
-- Assumes historical patterns in synthetic data
+- Training on synthetic data limits real-world applicability.
+- No consideration of external factors (news, geopolitics).
+- Does not account for transaction costs or market impact.
+- Assumes historical patterns in synthetic data.
 
 ---
 
@@ -298,11 +298,11 @@ This project acknowledges several ethical considerations:
 
 > **IMPORTANT**: This project is for **educational purposes only**.
 
-- 📚 **Educational Tool**: Designed for learning ML and financial analysis
-- ❌ **Not Financial Advice**: Do not use for actual trading decisions
-- 📊 **Synthetic Data**: Results based on generated data, not real markets
-- 💰 **Risk Warning**: Financial markets involve substantial risk of loss
-- 👨‍💼 **Professional Advice**: Consult qualified financial advisors for investment decisions
+- 📚 **Educational Tool**: Designed for learning ML and financial analysis.
+- ❌ **Not Financial Advice**: Do not use for actual trading decisions.
+- 📊 **Synthetic Data**: Results based on generated data, not real markets.
+- 💰 **Risk Warning**: Financial markets involve substantial risk of loss.
+- 👨‍💼 **Professional Advice**: Consult qualified financial advisors for investment decisions.
 
 **Legal Notice**: The authors and contributors are not responsible for any financial losses incurred from using this software.
 
@@ -313,6 +313,7 @@ This project acknowledges several ethical considerations:
 ### Project Information
 
 - **Student Name:** Ananya Chandra
+- **Mentor Name:** Dr. Niranjan Deshpande
 - **Course:** Minor in Artificial Intelligence
 - **Project Type:** Individual Open Project (Module E)
 - **Date:** 15th January 2026
