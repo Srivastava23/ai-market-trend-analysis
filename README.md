@@ -340,16 +340,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **NumPy & Pandas** for data manipulation
-- **scikit-learn** for machine learning algorithms
-- **Matplotlib & Seaborn** for visualizations
-- **Jupyter** for interactive development
+- **NumPy & Pandas** for data manipulation.
+- **scikit-learn** for machine learning algorithms.
+- **Matplotlib & Seaborn** for visualizations.
+- **Jupyter** for interactive development.
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for AI Minor Project**
+**Built as part of the Minor in Artificial Intelligence (Module E).**
 
 *© 2026 Ananya Chandra*
 
