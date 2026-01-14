@@ -1,7 +1,7 @@
 # 🚀 AI for Market Trend Analysis
 
 <p align="center">
-  <img src="images/project_banner.png" alt="AI Market Trend Analysis" width="100%">
+  <img src="images/project_banner.png" alt="AI Market Trend Analysis" width="70%">
 </p>
 
 <p align="center">
@@ -193,7 +193,7 @@ jupyter>=1.0.0
 ## 📊 Model Performance
 
 <p align="center">
-  <img src="images/model_comparison.png" alt="Model Comparison" width="80%">
+  <img src="images/model_comparison.png" alt="Model Comparison" width="50%">
 </p>
 
 ### Performance Metrics Summary
@@ -221,7 +221,7 @@ jupyter>=1.0.0
 ### Data Pipeline
 
 <p align="center">
-  <img src="images/pipeline_flow.png" alt="ML Pipeline Flow" width="100%">
+  <img src="images/pipeline_flow.png" alt="ML Pipeline Flow" width="70%">
 </p>
 
 ### 1. Data Generation
