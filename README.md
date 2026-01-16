@@ -19,9 +19,13 @@
 
 A comprehensive machine learning project that predicts stock market trends using time-series analysis and advanced ML algorithms.
 
-> **📄 Project Report:** [View PDF](docs/ai_market_trend_analysis.pdf)
+> **📄 Project PDF:** [View PDF](docs/ai_market_trend_analysis.pdf)
 >
 > **📓 Jupyter Notebook:** [View Notebook](ai_market_trend_analysis.ipynb)
+>
+> **📑 Project Report:** [View Report](docs/ai_market_trend_analysis_report.pdf)
+>
+> **📊 Project Presentation:** [View Presentation](docs/ai_market_trend_analysis_presentation.pdf)
 
 ---
 
@@ -129,7 +133,9 @@ ai-market-trend-analysis/
 │   └── pipeline_flow.png                  # ML pipeline visualization
 │
 ├── 📂 docs/
-│   └── ai_market_trend_analysis.pdf    # Project report
+│   ├── ai_market_trend_analysis.pdf              # Project PDF (Jupyter export)
+│   ├── ai_market_trend_analysis_report.pdf       # Project report document
+│   └── ai_market_trend_analysis_presentation.pdf # Project presentation slides
 │
 ├── 📋 requirements.txt                    # Python dependencies
 ├── 📚 README.md                           # This file
